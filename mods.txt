@@ -9,3 +9,4 @@ InventoryProfilesNext-fabric-1.18.x-1.2.1.jar
 Replay-Mod-Fabric-1.18.1.jar
 shulkerboxtooltip-3.0.51.18.jar
 InventoryProfilesNext-fabric-1.18-1.2.4.jar
+pathnote.txt
